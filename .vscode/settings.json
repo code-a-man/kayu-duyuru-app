@@ -1,0 +1,32 @@
+{
+	"workbench.colorCustomizations": {
+		"activityBar.background": "#26311B",
+		"titleBar.activeBackground": "#354425",
+		"titleBar.activeForeground": "#F9FBF8"
+	},
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/Thumbs.db": true,
+		"**/node_modules": true,
+		"node_modules": true,
+		"**/android": false,
+		"android": false,
+		"**/.bundle": true,
+		".bundle": true,
+		"**/__tests__": true,
+		"__tests__": true,
+		"**/.vscode": false,
+		".vscode": false,
+		"**/.watchmanconfig": true,
+		".watchmanconfig": true,
+		"**/*config.js": true,
+		"**/.*.js": true,
+		"**/Gemfile": true,
+		"Gemfile": true
+	},
+	"explorerExclude.backup": {}
+}
